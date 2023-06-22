@@ -1,0 +1,36 @@
+{
+  "user": [
+    {
+      "id": "Jadu",
+      "username": "Jadu",
+      "password": "111",
+      "name": "Jadu Bhai",
+      "email": "jadu@gmail.com",
+      "phone": "12192991",
+      "country": "india",
+      "address": "Earthasdfghj",
+      "gender": "male"
+    },
+    {
+      "id": "Hulk",
+      "username": "Hulkpatel",
+      "password": "123",
+      "name": "Hulk Bhaipatel",
+      "email": "hulk@gmail.com",
+      "phone": "121212121",
+      "country": "usa",
+      "address": "America",
+      "gender": "male"
+    },
+    {
+      "id": "Shaktiman",
+      "name": "Shaktiman Bhai",
+      "password": "123",
+      "email": "shakti@gmail.com",
+      "phone": "9191919191919",
+      "country": "india",
+      "address": "Mumbai",
+      "gender": "male"
+    }
+  ]
+}
